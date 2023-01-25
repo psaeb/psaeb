@@ -21,7 +21,7 @@ I am recognized for my strong problem-solving abilities and I enjoy using React 
 
 	* **Stack:** React, JavaScript, HTML, CSS, Firebase
 
-	*	**Link:** pendardev.me
+	*	**Link:** Not yet deployed.
 
 * **Project Name:** ECommerce
 
