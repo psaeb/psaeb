@@ -11,7 +11,7 @@ I am recognized for my strong problem-solving abilities and I enjoy using React 
 
 * **Back-end Development:** Java, Python, SQL
 
-* **Other Skills:** Git, Agile development, Test-Driven Development, Firebase
+* **Other Skills:** Git, Firebase, Ubuntu, Agile development, Test-Driven Development
 
 ## Projects
 
