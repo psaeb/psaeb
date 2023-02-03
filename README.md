@@ -50,8 +50,6 @@ I am recognized for my strong problem-solving abilities and I enjoy using React 
 
 * **High School:** A. Y. Jackson Secondary School
 
-* **SMR Program:** Science, Math, Robotics
-
 * **Expected Graduation:** 2026
 
 ## Availability
