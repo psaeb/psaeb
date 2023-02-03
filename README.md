@@ -37,7 +37,7 @@ I am recognized for my strong problem-solving abilities and I enjoy using React 
 
 	* **Stack:** React, JavaScript, HTML, CSS, Firebase
 
-	*	**Link:** https://ecommercelibrary.vercel.app
+	*	**Link:** https://firebasepractice.vercel.app/
 * **Project Name:** GoogleClone
 
 	* **Description:** Google Search Clone built using the Google API to retrieve indexed data from all the available websites.
